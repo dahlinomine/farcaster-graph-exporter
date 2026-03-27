@@ -1,0 +1,14 @@
+{
+  "name": "farcaster-graph-exporter",
+  "version": "0.1.0",
+  "description": "Export Farcaster social graphs to CSV/JSON for network analysis",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
